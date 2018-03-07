@@ -49,8 +49,9 @@ The body takes filename as standart input and parses the file with Biopython Seq
 
 Performing a code over *Yersinia pestis* complete genome DNA (see repository contents) gives the following result:
 
+
     |Chromosome    |          Locus                 |Sequence
---- | ------------ | ------------------------------ | ----------------------    
+--- | --- | --- | ---    
 0   |AE009952.1    |[114042, 114065]                |CTACATGGATGTATTTACGGCGT
 1   |AE009952.1    |[257511, 257534]                |      -/-
 2   |AE009952.1    |[600502, 600525]                |      -/-
