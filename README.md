@@ -85,17 +85,6 @@ Performing a code over *Yersinia pestis* complete genome DNA (see repository con
 |30  |AE009952.1    |[4413928, 4413951]              |      -/- |
 |31  |AE009952.1    |[4576110, 4576133]              |      -/- |
 
-
-| Алгоритм  | Время работы | Качество выравнивания (оставленные символы) |
-|---------|------------|-------------------------------------------|
-| ClustalW2 | 6.29         | 1749                                        |
-| MUSCLE    | 4.20         | 1753                                        |
-| Mafft     | 0.43         | 1780                                        |
-| Kalign    | 0.32         | 1745                                        | 
-| T-COFFEE  | 28.20        | 1722                                        |
-| Prank     | 6.69         | 1709                                        |
-
-
 BLASTing this sequence against whole NCBI library states that this sequence is related to intergenic spaces of several *Proteabcteria* G^-^-species. Thus, the frequency of this *k*-mer is increased due to its relation to stereotypical repeats.
 
 ## Acknowledgements
